@@ -5,7 +5,7 @@ import { Link } from "react-scroll";
 import btnImg from "../../assets/hireme.png"
 function Intro() {
   const OpenResume = ()=>{
-    const resumeURL =  process.env.PUBLIC_URL + 'assets/Swaraj_Nitin_Mhatre_Resume.pdf'
+    const resumeURL =  process.env.PUBLIC_URL + '/Swaraj_Nitin_Mhatre_Resume.pdf'
     window.open(resumeURL, '_blank')
   }
   return (
