@@ -2,7 +2,7 @@ import React from "react";
 import "./works.css";
 import Project1 from '../../assets/cppSTL.png';
 import Project2 from '../../assets/ReactPortfolio.png';
-import Project3 from '../../assets/Wags&WHiskers.jpg';
+import Project3 from '../../assets/Wags&WHiskers.png';
 import Project4 from '../../assets/Packify.webp';
 const Works = () => {
   const OpenWebsite = ()=>{
