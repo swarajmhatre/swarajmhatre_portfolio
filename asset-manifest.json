@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/swarajmhatre_portfolio/static/css/main.746743f1.css",
+    "main.js": "/swarajmhatre_portfolio/static/js/main.c4afdbf5.js",
+    "static/media/Profile.jpeg": "/swarajmhatre_portfolio/static/media/Profile.c7219ef0513334e96e4a.jpeg",
+    "static/media/ReactPortfolio.png": "/swarajmhatre_portfolio/static/media/ReactPortfolio.523ca55fe66acd601ec4.png",
+    "static/media/Wags&WHiskers.jpg": "/swarajmhatre_portfolio/static/media/Wags&WHiskers.87ca5d32db3edffe57c3.jpg",
+    "static/media/Packify.webp": "/swarajmhatre_portfolio/static/media/Packify.e57d65e1124969d3248a.webp",
+    "static/media/leadership.png": "/swarajmhatre_portfolio/static/media/leadership.66f6ba0be14793e44eb0.png",
+    "static/media/cppSTL.png": "/swarajmhatre_portfolio/static/media/cppSTL.018a61eea4293d663d58.png",
+    "static/media/ui-design.png": "/swarajmhatre_portfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "index.html": "/swarajmhatre_portfolio/index.html",
+    "main.746743f1.css.map": "/swarajmhatre_portfolio/static/css/main.746743f1.css.map",
+    "main.c4afdbf5.js.map": "/swarajmhatre_portfolio/static/js/main.c4afdbf5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.746743f1.css",
+    "static/js/main.c4afdbf5.js"
+  ]
+}
