@@ -1,11 +1,8 @@
-Certainly, here's the complete README code for your React portfolio GitHub repository:
-
-```markdown
 # React Portfolio
 
 Welcome to my React portfolio project! This repository contains the source code and assets for my personal portfolio website, built using React. 
 
-## Table of Contents
+<!-- ## Table of Contents
 - [Demo](#demo)
 - [Features](#features)
 - [Getting Started](#getting-started)
@@ -13,12 +10,11 @@ Welcome to my React portfolio project! This repository contains the source code 
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
+ -->
 
 ## Demo
 
-You can view the live demo of my portfolio at [Link to Live Demo]([https://your-portfolio-demo-link.com](https://swarajmhatre.github.io/swarajmhatre_portfolio)).
-
-![Portfolio Screenshot](/screenshots/portfolio.png)
+You can view the live demo of my portfolio at ([https://your-portfolio-demo-link.com](https://swarajmhatre.github.io/swarajmhatre_portfolio)).
 
 ## Features
 
@@ -84,6 +80,4 @@ If you'd like to contribute to this project, please follow these steps:
 5. Create a Pull Request in this repository.
 
 ## License
-
 This project is licensed under the MIT License.
-```
