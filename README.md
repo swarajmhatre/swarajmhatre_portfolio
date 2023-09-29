@@ -14,7 +14,7 @@ Welcome to my React portfolio project! This repository contains the source code 
 
 ## Demo
 
-You can view the live demo of my portfolio at ([https://your-portfolio-demo-link.com](https://swarajmhatre.github.io/swarajmhatre_portfolio)).
+You can view the live demo of my portfolio at ([this link](https://swarajmhatre.github.io/swarajmhatre_portfolio)).
 
 ## Features
 
