@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client"; // Correct import
-import index from './index.css';
+import './index.css';
 
 import App from "./App";
 
