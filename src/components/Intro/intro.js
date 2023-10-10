@@ -14,7 +14,7 @@ function Intro() {
         <span className="hello">Hello,</span>
         <span className="introText">I'm <span className="introName">Swaraj</span><br/>Website Designer</span>
         <p className="introPara">I am a skilled Web Developer with experience in creating appealing Web Applications.</p>
-        <Link ><button className="btn" onClick={OpenResume}><img src={btnImg} alt="Hire Me" className="btnImg"/>Hire Me</button></Link>
+        <Link><button className="btn" onClick={OpenResume}><img src={btnImg} alt="Hire Me" className="btnImg"/>Hire Me</button></Link>
       </div>
       <img src={bg} alt="" className="bg" />
     </section>
