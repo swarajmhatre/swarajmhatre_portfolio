@@ -53,9 +53,11 @@
     background: white;
     border-radius: 2rem;
     font-size: 1rem;
+    cursor: pointer;
 }
 .worksBtn:hover{
-    cursor: pointer;
+    scale: 1.05;
+    transition: 0.1s;
 }
 
 @media screen and (max-width: 585px) {
