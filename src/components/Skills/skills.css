@@ -30,7 +30,10 @@
     max-width: 80%;
     text-align: left;
 }
-
+.skillBar:hover{
+    background:rgb(111, 110, 110);
+    border-radius: 0.1rem;
+}
 .skillBar{
     display: flex;
     margin: 1rem;
