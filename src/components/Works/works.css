@@ -39,6 +39,12 @@
     justify-content: center;
 }
 
+.project:hover{
+    background-color: rgb(111, 110, 110);
+    border: 5px  rgb(222, 215, 215) double;
+    color: aliceblue;
+}
+
 .worksImg{
     object-fit: cover;
     height: 20rem;
@@ -53,9 +59,11 @@
     background: white;
     border-radius: 2rem;
     font-size: 1rem;
+    cursor: pointer;
 }
 .worksBtn:hover{
-    cursor: pointer;
+    scale: 1.05;
+    transition: 0.1s;
 }
 
 @media screen and (max-width: 585px) {

@@ -23,6 +23,14 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
+    const email = document.getElementsByName('user_email')[0].value;
+    const msg = document.getElementsByName('message')[0].value;
+    
+    if(!email || !msg || !(/^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/.test(email))){
+      alert('Please add valid email address and your message for me..');
+      return;
+    }
+
     emailjs
       .sendForm(
         "service_hs9wp3x",

@@ -51,6 +51,11 @@
     border-radius: 0.5rem;
     margin: 2rem;
     padding: 0.75rem 3.5rem;
+    cursor: pointer;
+}
+.submitBtn:hover{
+    scale: 1.05;
+    transition: 0.1s;
 }
 
 .Links{
@@ -63,4 +68,9 @@
     height: 3rem;
     width: 3rem;
     margin: 0 0.75rem;
+    cursor: pointer;
+}
+.Link:hover{
+    scale: 1.05;
+    transition: 0.1s;
 }

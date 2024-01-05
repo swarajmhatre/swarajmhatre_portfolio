@@ -9,12 +9,12 @@
 
 .bg{
     position: absolute;
-    top: -4rem;
-    right: 0;
+    top: -1rem;
+    left: 52rem;
     z-index: -1;
     padding-top: 2rem;
     object-fit: cover;
-    height: 90vh;
+    height: 80vh;
 }
 
 .introContent{
@@ -41,6 +41,7 @@
     font-size: medium;
     font-weight: 300;
     letter-spacing: 1px;
+    text-wrap: wrap;
 }
 
 .btn{
@@ -49,6 +50,12 @@
     padding: 0.75rem 1.5rem;
     border: none;
     border-radius: 2rem;
+    cursor: pointer;
+     
+}
+.btn:hover{
+    scale: 1.05;
+    transition: 0.1s;
 }
 
 .btnImg{
